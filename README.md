@@ -1,4 +1,4 @@
-# 🚀 RAM Optimizer (AutoHotkey v2)
+# 🚀 RAM Optimizer v0.26.2 (ahk-v2)
 
 Windows sisteminizdeki gereksiz bellek kullanımını temizleyen ve sistem performansını artıran hafif, taşınabilir ve açık kaynaklı bir araç.
 
